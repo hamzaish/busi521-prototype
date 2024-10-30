@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/busi521-prototype/static/css/main.a647b1ba.css",
+    "main.js": "/busi521-prototype/static/js/main.324dfddf.js",
+    "static/js/453.7b0a088a.chunk.js": "/busi521-prototype/static/js/453.7b0a088a.chunk.js",
+    "static/media/hero-image.jpg": "/busi521-prototype/static/media/hero-image.b08814b3e64ca2d5c3c2.jpg",
+    "index.html": "/busi521-prototype/index.html",
+    "main.a647b1ba.css.map": "/busi521-prototype/static/css/main.a647b1ba.css.map",
+    "main.324dfddf.js.map": "/busi521-prototype/static/js/main.324dfddf.js.map",
+    "453.7b0a088a.chunk.js.map": "/busi521-prototype/static/js/453.7b0a088a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a647b1ba.css",
+    "static/js/main.324dfddf.js"
+  ]
+}
